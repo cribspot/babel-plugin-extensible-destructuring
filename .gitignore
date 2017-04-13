@@ -30,3 +30,6 @@ build/Release
 node_modules
 
 local_*.js
+
+# IntelliJ IDE
+.idea/
